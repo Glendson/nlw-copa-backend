@@ -45,7 +45,7 @@ This project in NodeJS with integration in React/next and React Native, is an ap
 :heavy_check_mark: Create any Polls;\
 :heavy_check_mark: Create Guesses per Poll;\
 :heavy_check_mark: Show Ranking per Poll;\
-:heavy_check_mark: Share Polls with friends;
+:heavy_check_mark: Share Polls with friends;\
 :heavy_check_mark: Have FUN!;
 
 ## :rocket: Technologies ##
