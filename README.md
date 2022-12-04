@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="" alt="NLW COPA" />
+  <img src="https://github.com/Glendson/nlw-copa-frontend/blob/main/src/assets/logo.svg" alt="NLW COPA" />
 
   &#xa0;
 
@@ -73,7 +73,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/guilhermeal/backend_nlwcopa.git
+$ git clone https://github.com/glendson/nlw-copa-backend.git
 
 # Access
 $ cd backend_nlwcopa
